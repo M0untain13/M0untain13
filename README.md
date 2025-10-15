@@ -1,5 +1,5 @@
 ## 👋 Хеллоу 
-- 🔭 **Кем работаю:** Fullstack Developer
+- 🔭 **Кем работаю:** .NET core software engineer
 - 🌱 **Читаю:** Dependency Injection. Principles, Practices, and Patterns. Steven van Deursen, Mark Seemann.
 - 📫 **Связаться со мной:** [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/sdrn1k)
 - ⚡ **Любимая фраза:** Плохие новости - время летит. Хорошие новости - ты пилот!
